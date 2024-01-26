@@ -35,7 +35,7 @@ accuracy_score(y_test, pred)
 
 """Linear Regressor Model"""
 
-#TF is wrong with it
+
 import pandas as pd
 from sklearn.datasets import load_iris
 X,y = load_iris(return_X_y = True)
